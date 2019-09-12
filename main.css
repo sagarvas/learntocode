@@ -4,3 +4,7 @@ h1 {
 img {
     width: 300px;
 }
+#box {
+    outline-style: solid;
+    outline-color: red; 
+}
